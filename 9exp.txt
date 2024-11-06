@@ -3,3 +3,4 @@ welcome to git lab
 analysing and changing git history
 welcome to cse
 hello to everyone
+i am welcoming u all to c1 class
